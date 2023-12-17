@@ -1,5 +1,4 @@
 # ラズピコでRust
-ラズピコ で L チカする(デバッグ環境用)
 
 ## setting.json
 
@@ -12,4 +11,4 @@
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　環境構築編](https://moons.link/pico/post-1137/)
+[ラズピコでRust　I2Cで温度計測](https://moons.link/pico/post-1254/)
